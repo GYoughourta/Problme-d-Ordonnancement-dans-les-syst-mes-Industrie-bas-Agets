@@ -1,0 +1,1 @@
+java -cp ../lib/derbytools.jar;../lib/derby.jar org.apache.derby.tools.ij CreateDB.ij

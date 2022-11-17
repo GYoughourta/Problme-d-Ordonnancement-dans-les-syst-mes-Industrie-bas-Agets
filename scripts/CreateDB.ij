@@ -1,0 +1,7 @@
+connect 'jdbc:derby:../BDD/BDDCevital;user=user;password=password;create=true';
+ 
+run 'Tables.ddl';
+
+run 'Data.sql';
+ 
+exit;
